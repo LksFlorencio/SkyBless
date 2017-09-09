@@ -1,0 +1,6 @@
+Log automático do servidor. Criado na data 16/07/2017 01:11:33
+Existem 0 Jogadores online
+A última atualização de recebimento aconteceu em 1200428 ms
+A última atualização de conexão aconteceu em 1200428 ms
+O último comando chamado no loop foi NPC COUNT
+A última packet recebida foi 
